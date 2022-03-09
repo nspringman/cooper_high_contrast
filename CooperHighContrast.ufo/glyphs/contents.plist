@@ -8,6 +8,10 @@
     <string>E_.glif</string>
     <key>H</key>
     <string>H_.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>L</key>
+    <string>L_.glif</string>
     <key>O</key>
     <string>O_.glif</string>
     <key>R</key>
@@ -46,6 +50,8 @@
     <string>o.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>q</key>
+    <string>q.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>space</key>
