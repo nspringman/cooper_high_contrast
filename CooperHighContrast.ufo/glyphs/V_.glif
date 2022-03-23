@@ -45,11 +45,5 @@
       <point x="340" y="747"/>
       <point x="235" y="754"/>
     </contour>
-    <contour>
-      <point x="170" y="752" type="move" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="415" y="363.0" type="move" smooth="yes"/>
-    </contour>
   </outline>
 </glyph>
