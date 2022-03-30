@@ -235,6 +235,8 @@
       <string>quoteright</string>
       <string>minus</string>
       <string>V.0</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
     </array>
   </dict>
 </plist>
