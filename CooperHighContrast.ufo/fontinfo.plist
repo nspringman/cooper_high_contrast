@@ -11,30 +11,7 @@
     <key>familyName</key>
     <string>Cooper Black HC</string>
     <key>guidelines</key>
-    <array>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>jPja1Bfu0o</string>
-        <key>name</key>
-        <string>number height</string>
-        <key>x</key>
-        <integer>621</integer>
-        <key>y</key>
-        <integer>693</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>jSm4kS4gRa</string>
-        <key>x</key>
-        <integer>858</integer>
-        <key>y</key>
-        <integer>-60</integer>
-      </dict>
-    </array>
+    <array/>
     <key>postscriptBlueValues</key>
     <array/>
     <key>postscriptFamilyBlues</key>

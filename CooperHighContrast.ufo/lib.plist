@@ -29,14 +29,6 @@
     <false/>
     <key>com.typemytype.robofont.generateFeaturesWithFontTools</key>
     <false/>
-    <key>com.typemytype.robofont.guideline.magnetic.jPja1Bfu0o</key>
-    <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.magnetic.jSm4kS4gRa</key>
-    <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.showMeasurements.jPja1Bfu0o</key>
-    <false/>
-    <key>com.typemytype.robofont.guideline.showMeasurements.jSm4kS4gRa</key>
-    <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
@@ -249,6 +241,8 @@
       <string>V.0</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
+      <string>endash</string>
+      <string>emdash</string>
     </array>
   </dict>
 </plist>
