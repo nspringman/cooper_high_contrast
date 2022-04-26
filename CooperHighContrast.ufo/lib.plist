@@ -31,7 +31,11 @@
     <false/>
     <key>com.typemytype.robofont.guideline.magnetic.dcjk2WbARL</key>
     <real>5.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.xFs12a9LE5</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.dcjk2WbARL</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.xFs12a9LE5</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>

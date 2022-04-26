@@ -18,9 +18,23 @@
         <key>identifier</key>
         <string>dcjk2WbARL</string>
         <key>x</key>
-        <integer>722</integer>
+        <integer>127</integer>
         <key>y</key>
-        <integer>772</integer>
+        <integer>773</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>color</key>
+        <string>1,0.85567,0,1</string>
+        <key>identifier</key>
+        <string>xFs12a9LE5</string>
+        <key>name</key>
+        <string>_top_anchor</string>
+        <key>x</key>
+        <integer>272</integer>
+        <key>y</key>
+        <integer>784</integer>
       </dict>
     </array>
     <key>postscriptBlueValues</key>
