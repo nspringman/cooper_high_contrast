@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Eacute" format="2">
-  <advance width="698"/>
-  <unicode hex="00C9"/>
+<glyph name="udieresis" format="2">
+  <advance width="735"/>
+  <unicode hex="00FC"/>
   <outline>
-    <component base="E"/>
-    <component base="acute" xOffset="232.62971385300625" yOffset="18"/>
+    <component base="u"/>
+    <component base="dieresis" xOffset="201.5" yOffset="-114"/>
   </outline>
   <lib>
     <dict>

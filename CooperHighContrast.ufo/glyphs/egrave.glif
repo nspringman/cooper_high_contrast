@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="eacute" format="2">
+<glyph name="egrave" format="2">
   <advance width="652"/>
-  <unicode hex="00E9"/>
+  <unicode hex="00E8"/>
   <outline>
     <component base="e"/>
-    <component base="acute" xOffset="207.62971385300625" yOffset="-109"/>
+    <component base="grave" xOffset="219.37028614699375" yOffset="-109"/>
   </outline>
   <lib>
     <dict>
