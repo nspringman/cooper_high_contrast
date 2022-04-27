@@ -224,6 +224,8 @@
     <string>parenright.glif</string>
     <key>period</key>
     <string>period.glif</string>
+    <key>plus</key>
+    <string>plus.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>question</key>
@@ -274,6 +276,8 @@
     <string>udieresis.glif</string>
     <key>ugrave</key>
     <string>ugrave.glif</string>
+    <key>underscore</key>
+    <string>underscore.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>w</key>

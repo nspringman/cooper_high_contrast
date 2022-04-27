@@ -3,8 +3,8 @@
   <advance width="384"/>
   <unicode hex="00EE"/>
   <outline>
-    <component base="i"/>
-    <component base="circumflex" yOffset="6"/>
+    <component base="dotlessi"/>
+    <component base="circumflex" yOffset="-87"/>
   </outline>
   <lib>
     <dict>
