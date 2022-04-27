@@ -73,6 +73,10 @@
       <integer>-45</integer>
       <key>T</key>
       <integer>-10</integer>
+      <key>V</key>
+      <integer>-40</integer>
+      <key>W</key>
+      <integer>-50</integer>
       <key>Y</key>
       <integer>-40</integer>
     </dict>
@@ -110,6 +114,8 @@
     <dict>
       <key>A</key>
       <integer>-130</integer>
+      <key>O</key>
+      <integer>-40</integer>
       <key>i</key>
       <integer>-10</integer>
       <key>n</key>
@@ -123,6 +129,8 @@
     <dict>
       <key>A</key>
       <integer>-140</integer>
+      <key>O</key>
+      <integer>-80</integer>
       <key>w</key>
       <integer>-40</integer>
     </dict>
