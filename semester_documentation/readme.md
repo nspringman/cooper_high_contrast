@@ -2,6 +2,23 @@
 
 # Pixel typeface
 
+For the pixel typeface, my initial inclination was to create something that was very readable instead of decorative. I looked at some of the fonts on the original Macintosh for inspiration on how to approach some of the design challenges.
+
+It's hard to really classify this font, but my approach was to make a fairly light or text-weight slab serif. Most every form is two pixels/blocks wide.
+
+Generally, development was straightforward. The only big shift in approach was wether to have serifs be one or two pixels thick.
+
+<img src="./img/pixel_heavier_serif.png" alt="Pixel typeface with heavier serif" width="50%"/>
+<img src="./img/pixel_lighter_serif.png" alt="Pixel typeface with lighter serif" width="50%"/>
+
+Nearly every form in the typeface is two blocks wide. From this standpoint, it made sense to have the serifs two blocks wide. The above specimen compares the heavier and lighter serifs, and the heavier seems to add too much weight to the overall texture. As such, the lighter serifs (lower of above) were kept.
+
+<img src="./img/proof_pixel_1.jpg" alt="Pixel Proof 1" width="32%"/>
+<img src="./img/proof_pixel_2.jpg" alt="Pixel Proof 2" width="32%"/>
+<img src="./img/proof_pixel_3.jpg" alt="Pixel Proof 3" width="32%"/>
+
+Final set of letters.
+
 # Revival - Sloopy
 
 ## Brief
